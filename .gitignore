@@ -1,0 +1,4 @@
+*.docx
+*.csv
+distilbert_fake_news_model/
+.gradio/
